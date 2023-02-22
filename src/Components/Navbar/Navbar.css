@@ -1,0 +1,28 @@
+.nav-bar-flex-div{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bar-width-div{
+    width: 100%;
+}
+
+.nav-bar-main-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-bar-sub-div-btn{
+    padding: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.nav-bar-sub-div-one-icon{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
