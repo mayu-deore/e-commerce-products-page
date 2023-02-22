@@ -1,6 +1,5 @@
 import React from "react";
 import "./Carousel.css";
-import cardImage from "../../Assets/Images/card-image.jpg";
 
 function Card(props) {
   return (
